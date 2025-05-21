@@ -1,4 +1,3 @@
-Tentu, ini dia contoh README.md untuk proyek Pemecah & Generator Labirin C++ yang sudah kita buat:
 # Proyek Pemecah & Generator Labirin C++ (Maze Solver & Generator)
 
 Proyek ini adalah implementasi program konsol C++ yang dapat menghasilkan labirin secara acak dan kemudian menemukan solusi (jalur) dari titik awal ke titik akhir menggunakan algoritma DFS (Depth-First Search) atau BFS (Breadth-First Search).
